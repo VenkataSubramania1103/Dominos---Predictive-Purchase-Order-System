@@ -1,0 +1,519 @@
+pizza_name_id,pizza_name,pizza_ingredients,Items_Qty_In_Grams,predicted_quantity,total_ingredient_qty
+bbq_ckn_l,The Barbecue Chicken Pizza,Barbecued Chicken,40.0,84,3360.0
+bbq_ckn_l,The Barbecue Chicken Pizza,Red Peppers,15.0,84,1260.0
+bbq_ckn_l,The Barbecue Chicken Pizza,Green Peppers,20.0,84,1680.0
+bbq_ckn_l,The Barbecue Chicken Pizza,Tomatoes,30.0,84,2520.0
+bbq_ckn_l,The Barbecue Chicken Pizza,Red Onions,60.0,84,5040.0
+bbq_ckn_l,The Barbecue Chicken Pizza,Barbecue Sauce,15.0,84,1260.0
+bbq_ckn_m,The Barbecue Chicken Pizza,Barbecued Chicken,30.0,95,2850.0
+bbq_ckn_m,The Barbecue Chicken Pizza,Red Peppers,10.0,95,950.0
+bbq_ckn_m,The Barbecue Chicken Pizza,Green Peppers,15.0,95,1425.0
+bbq_ckn_m,The Barbecue Chicken Pizza,Tomatoes,20.0,95,1900.0
+bbq_ckn_m,The Barbecue Chicken Pizza,Red Onions,40.0,95,3800.0
+bbq_ckn_m,The Barbecue Chicken Pizza,Barbecue Sauce,10.0,95,950.0
+bbq_ckn_s,The Barbecue Chicken Pizza,Barbecued Chicken,20.0,27,540.0
+bbq_ckn_s,The Barbecue Chicken Pizza,Red Peppers,5.0,27,135.0
+bbq_ckn_s,The Barbecue Chicken Pizza,Green Peppers,20.0,27,540.0
+bbq_ckn_s,The Barbecue Chicken Pizza,Tomatoes,10.0,27,270.0
+bbq_ckn_s,The Barbecue Chicken Pizza,Red Onions,20.0,27,540.0
+bbq_ckn_s,The Barbecue Chicken Pizza,Barbecue Sauce,5.0,27,135.0
+big_meat_s,The Big Meat Pizza,Bacon,150.0,115,17250.0
+big_meat_s,The Big Meat Pizza,Pepperoni,50.0,115,5750.0
+big_meat_s,The Big Meat Pizza,Italian Sausage,10.0,115,1150.0
+big_meat_s,The Big Meat Pizza,Chorizo Sausage,50.0,115,5750.0
+brie_carre_s,The Brie Carre Pizza,Brie Carre Cheese,30.0,38,1140.0
+brie_carre_s,The Brie Carre Pizza,Prosciutto,30.0,38,1140.0
+brie_carre_s,The Brie Carre Pizza,Caramelized Onions,16.0,38,608.0
+brie_carre_s,The Brie Carre Pizza,Pears,10.0,38,380.0
+brie_carre_s,The Brie Carre Pizza,Thyme,5.0,38,190.0
+brie_carre_s,The Brie Carre Pizza,Garlic,5.0,38,190.0
+calabrese_l,The Calabrese Pizza,?duja Salami,60.0,21,1260.0
+calabrese_l,The Calabrese Pizza,Pancetta,90.0,21,1890.0
+calabrese_l,The Calabrese Pizza,Tomatoes,30.0,21,630.0
+calabrese_l,The Calabrese Pizza,Red Onions,60.0,21,1260.0
+calabrese_l,The Calabrese Pizza,Friggitello Peppers,15.0,21,315.0
+calabrese_l,The Calabrese Pizza,Garlic,15.0,21,315.0
+calabrese_m,The Calabrese Pizza,?duja Salami,40.0,40,1600.0
+calabrese_m,The Calabrese Pizza,Pancetta,60.0,40,2400.0
+calabrese_m,The Calabrese Pizza,Tomatoes,20.0,40,800.0
+calabrese_m,The Calabrese Pizza,Red Onions,40.0,40,1600.0
+calabrese_m,The Calabrese Pizza,Friggitello Peppers,10.0,40,400.0
+calabrese_m,The Calabrese Pizza,Garlic,10.0,40,400.0
+calabrese_s,The Calabrese Pizza,?duja Salami,20.0,9,180.0
+calabrese_s,The Calabrese Pizza,Pancetta,30.0,9,270.0
+calabrese_s,The Calabrese Pizza,Tomatoes,10.0,9,90.0
+calabrese_s,The Calabrese Pizza,Red Onions,20.0,9,180.0
+calabrese_s,The Calabrese Pizza,Friggitello Peppers,5.0,9,45.0
+calabrese_s,The Calabrese Pizza,Garlic,5.0,9,45.0
+cali_ckn_l,The California Chicken Pizza,Chicken,150.0,92,13800.0
+cali_ckn_l,The California Chicken Pizza,Artichokes,20.0,92,1840.0
+cali_ckn_l,The California Chicken Pizza,Spinach,45.0,92,4140.0
+cali_ckn_l,The California Chicken Pizza,Garlic,15.0,92,1380.0
+cali_ckn_l,The California Chicken Pizza,Jalapeno Peppers,15.0,92,1380.0
+cali_ckn_l,The California Chicken Pizza,Fontina Cheese,30.0,92,2760.0
+cali_ckn_l,The California Chicken Pizza,Gouda Cheese,30.0,92,2760.0
+cali_ckn_m,The California Chicken Pizza,Chicken,100.0,85,8500.0
+cali_ckn_m,The California Chicken Pizza,Artichokes,15.0,85,1275.0
+cali_ckn_m,The California Chicken Pizza,Spinach,30.0,85,2550.0
+cali_ckn_m,The California Chicken Pizza,Garlic,10.0,85,850.0
+cali_ckn_m,The California Chicken Pizza,Jalapeno Peppers,10.0,85,850.0
+cali_ckn_m,The California Chicken Pizza,Fontina Cheese,20.0,85,1700.0
+cali_ckn_m,The California Chicken Pizza,Gouda Cheese,20.0,85,1700.0
+cali_ckn_s,The California Chicken Pizza,Chicken,50.0,37,1850.0
+cali_ckn_s,The California Chicken Pizza,Artichokes,10.0,37,370.0
+cali_ckn_s,The California Chicken Pizza,Spinach,15.0,37,555.0
+cali_ckn_s,The California Chicken Pizza,Garlic,5.0,37,185.0
+cali_ckn_s,The California Chicken Pizza,Jalapeno Peppers,5.0,37,185.0
+cali_ckn_s,The California Chicken Pizza,Fontina Cheese,10.0,37,370.0
+cali_ckn_s,The California Chicken Pizza,Gouda Cheese,10.0,37,370.0
+ckn_alfredo_l,The Chicken Alfredo Pizza,Chicken,150.0,19,2850.0
+ckn_alfredo_l,The Chicken Alfredo Pizza,Red Onions,60.0,19,1140.0
+ckn_alfredo_l,The Chicken Alfredo Pizza,Red Peppers,15.0,19,285.0
+ckn_alfredo_l,The Chicken Alfredo Pizza,Mushrooms,60.0,19,1140.0
+ckn_alfredo_l,The Chicken Alfredo Pizza,Asiago Cheese,30.0,19,570.0
+ckn_alfredo_l,The Chicken Alfredo Pizza,Alfredo Sauce,20.0,19,380.0
+ckn_alfredo_m,The Chicken Alfredo Pizza,Chicken,100.0,70,7000.0
+ckn_alfredo_m,The Chicken Alfredo Pizza,Red Onions,40.0,70,2800.0
+ckn_alfredo_m,The Chicken Alfredo Pizza,Red Peppers,10.0,70,700.0
+ckn_alfredo_m,The Chicken Alfredo Pizza,Mushrooms,40.0,70,2800.0
+ckn_alfredo_m,The Chicken Alfredo Pizza,Asiago Cheese,20.0,70,1400.0
+ckn_alfredo_m,The Chicken Alfredo Pizza,Alfredo Sauce,15.0,70,1050.0
+ckn_alfredo_s,The Chicken Alfredo Pizza,Chicken,50.0,10,500.0
+ckn_alfredo_s,The Chicken Alfredo Pizza,Red Onions,20.0,10,200.0
+ckn_alfredo_s,The Chicken Alfredo Pizza,Red Peppers,5.0,10,50.0
+ckn_alfredo_s,The Chicken Alfredo Pizza,Mushrooms,20.0,10,200.0
+ckn_alfredo_s,The Chicken Alfredo Pizza,Asiago Cheese,10.0,10,100.0
+ckn_alfredo_s,The Chicken Alfredo Pizza,Alfredo Sauce,10.0,10,100.0
+ckn_pesto_l,The Chicken Pesto Pizza,Chicken,150.0,30,4500.0
+ckn_pesto_l,The Chicken Pesto Pizza,Tomatoes,30.0,30,900.0
+ckn_pesto_l,The Chicken Pesto Pizza,Red Peppers,15.0,30,450.0
+ckn_pesto_l,The Chicken Pesto Pizza,Spinach,45.0,30,1350.0
+ckn_pesto_l,The Chicken Pesto Pizza,Garlic,15.0,30,450.0
+ckn_pesto_l,The Chicken Pesto Pizza,Pesto Sauce,30.0,30,900.0
+ckn_pesto_m,The Chicken Pesto Pizza,Chicken,100.0,20,2000.0
+ckn_pesto_m,The Chicken Pesto Pizza,Tomatoes,20.0,20,400.0
+ckn_pesto_m,The Chicken Pesto Pizza,Red Peppers,10.0,20,200.0
+ckn_pesto_m,The Chicken Pesto Pizza,Spinach,30.0,20,600.0
+ckn_pesto_m,The Chicken Pesto Pizza,Garlic,10.0,20,200.0
+ckn_pesto_m,The Chicken Pesto Pizza,Pesto Sauce,20.0,20,400.0
+ckn_pesto_s,The Chicken Pesto Pizza,Chicken,50.0,23,1150.0
+ckn_pesto_s,The Chicken Pesto Pizza,Tomatoes,10.0,23,230.0
+ckn_pesto_s,The Chicken Pesto Pizza,Red Peppers,5.0,23,115.0
+ckn_pesto_s,The Chicken Pesto Pizza,Spinach,15.0,23,345.0
+ckn_pesto_s,The Chicken Pesto Pizza,Garlic,5.0,23,115.0
+ckn_pesto_s,The Chicken Pesto Pizza,Pesto Sauce,10.0,23,230.0
+classic_dlx_l,The Classic Deluxe Pizza,Pepperoni,60.0,26,1560.0
+classic_dlx_l,The Classic Deluxe Pizza,Mushrooms,60.0,26,1560.0
+classic_dlx_l,The Classic Deluxe Pizza,Red Onions,60.0,26,1560.0
+classic_dlx_l,The Classic Deluxe Pizza,Red Peppers,15.0,26,390.0
+classic_dlx_l,The Classic Deluxe Pizza,Bacon,120.0,26,3120.0
+classic_dlx_m,The Classic Deluxe Pizza,Pepperoni,40.0,68,2720.0
+classic_dlx_m,The Classic Deluxe Pizza,Mushrooms,40.0,68,2720.0
+classic_dlx_m,The Classic Deluxe Pizza,Red Onions,40.0,68,2720.0
+classic_dlx_m,The Classic Deluxe Pizza,Red Peppers,10.0,68,680.0
+classic_dlx_m,The Classic Deluxe Pizza,Bacon,100.0,68,6800.0
+classic_dlx_s,The Classic Deluxe Pizza,Pepperoni,20.0,49,980.0
+classic_dlx_s,The Classic Deluxe Pizza,Mushrooms,20.0,49,980.0
+classic_dlx_s,The Classic Deluxe Pizza,Red Onions,20.0,49,980.0
+classic_dlx_s,The Classic Deluxe Pizza,Red Peppers,5.0,49,245.0
+classic_dlx_s,The Classic Deluxe Pizza,Bacon,50.0,49,2450.0
+five_cheese_l,The Five Cheese Pizza,Mozzarella Cheese,30.0,51,1530.0
+five_cheese_l,The Five Cheese Pizza,Provolone Cheese,30.0,51,1530.0
+five_cheese_l,The Five Cheese Pizza,Smoked Gouda Cheese,30.0,51,1530.0
+five_cheese_l,The Five Cheese Pizza,Romano Cheese,30.0,51,1530.0
+five_cheese_l,The Five Cheese Pizza,Blue Cheese,30.0,51,1530.0
+five_cheese_l,The Five Cheese Pizza,Garlic,15.0,51,765.0
+four_cheese_l,The Four Cheese Pizza,Ricotta Cheese,50.0,127,6350.0
+four_cheese_l,The Four Cheese Pizza,Gorgonzola Piccante Cheese,40.0,127,5080.0
+four_cheese_l,The Four Cheese Pizza,Mozzarella Cheese,20.0,127,2540.0
+four_cheese_l,The Four Cheese Pizza,Parmigiano Reggiano Cheese,90.0,127,11430.0
+four_cheese_l,The Four Cheese Pizza,Garlic,15.0,127,1905.0
+four_cheese_m,The Four Cheese Pizza,Ricotta Cheese,25.0,44,1100.0
+four_cheese_m,The Four Cheese Pizza,Gorgonzola Piccante Cheese,20.0,44,880.0
+four_cheese_m,The Four Cheese Pizza,Mozzarella Cheese,10.0,44,440.0
+four_cheese_m,The Four Cheese Pizza,Parmigiano Reggiano Cheese,60.0,44,2640.0
+four_cheese_m,The Four Cheese Pizza,Garlic,10.0,44,440.0
+green_garden_l,The Green Garden Pizza,Spinach,45.0,10,450.0
+green_garden_l,The Green Garden Pizza,Mushrooms,60.0,10,600.0
+green_garden_l,The Green Garden Pizza,Tomatoes,30.0,10,300.0
+green_garden_l,The Green Garden Pizza,Green Olives,15.0,10,150.0
+green_garden_l,The Green Garden Pizza,Feta Cheese,40.0,10,400.0
+green_garden_m,The Green Garden Pizza,Spinach,30.0,24,720.0
+green_garden_m,The Green Garden Pizza,Mushrooms,40.0,24,960.0
+green_garden_m,The Green Garden Pizza,Tomatoes,20.0,24,480.0
+green_garden_m,The Green Garden Pizza,Green Olives,10.0,24,240.0
+green_garden_m,The Green Garden Pizza,Feta Cheese,20.0,24,480.0
+green_garden_s,The Green Garden Pizza,Spinach,15.0,46,690.0
+green_garden_s,The Green Garden Pizza,Mushrooms,20.0,46,920.0
+green_garden_s,The Green Garden Pizza,Tomatoes,10.0,46,460.0
+green_garden_s,The Green Garden Pizza,Green Olives,5.0,46,230.0
+green_garden_s,The Green Garden Pizza,Feta Cheese,10.0,46,460.0
+hawaiian_l,The Hawaiian Pizza,Sliced Ham,37.5,52,1950.0
+hawaiian_l,The Hawaiian Pizza,Pineapple,45.0,52,2340.0
+hawaiian_l,The Hawaiian Pizza,Mozzarella Cheese,30.0,52,1560.0
+hawaiian_m,The Hawaiian Pizza,Sliced Ham,25.0,28,700.0
+hawaiian_m,The Hawaiian Pizza,Pineapple,30.0,28,840.0
+hawaiian_m,The Hawaiian Pizza,Mozzarella Cheese,20.0,28,560.0
+hawaiian_s,The Hawaiian Pizza,Sliced Ham,12.5,54,675.0
+hawaiian_s,The Hawaiian Pizza,Pineapple,15.0,54,810.0
+hawaiian_s,The Hawaiian Pizza,Mozzarella Cheese,10.0,54,540.0
+ital_cpcllo_l,The Italian Capocollo Pizza,Capocollo,150.0,59,8850.0
+ital_cpcllo_l,The Italian Capocollo Pizza,Red Peppers,15.0,59,885.0
+ital_cpcllo_l,The Italian Capocollo Pizza,Tomatoes,30.0,59,1770.0
+ital_cpcllo_l,The Italian Capocollo Pizza,Goat Cheese,60.0,59,3540.0
+ital_cpcllo_l,The Italian Capocollo Pizza,Garlic,15.0,59,885.0
+ital_cpcllo_l,The Italian Capocollo Pizza,Oregano,15.0,59,885.0
+ital_cpcllo_m,The Italian Capocollo Pizza,Capocollo,100.0,28,2800.0
+ital_cpcllo_m,The Italian Capocollo Pizza,Red Peppers,10.0,28,280.0
+ital_cpcllo_m,The Italian Capocollo Pizza,Tomatoes,20.0,28,560.0
+ital_cpcllo_m,The Italian Capocollo Pizza,Goat Cheese,40.0,28,1120.0
+ital_cpcllo_m,The Italian Capocollo Pizza,Garlic,10.0,28,280.0
+ital_cpcllo_m,The Italian Capocollo Pizza,Oregano,10.0,28,280.0
+ital_cpcllo_s,The Italian Capocollo Pizza,Capocollo,50.0,17,850.0
+ital_cpcllo_s,The Italian Capocollo Pizza,Red Peppers,5.0,17,85.0
+ital_cpcllo_s,The Italian Capocollo Pizza,Tomatoes,10.0,17,170.0
+ital_cpcllo_s,The Italian Capocollo Pizza,Goat Cheese,20.0,17,340.0
+ital_cpcllo_s,The Italian Capocollo Pizza,Garlic,5.0,17,85.0
+ital_cpcllo_s,The Italian Capocollo Pizza,Oregano,5.0,17,85.0
+ital_supr_l,The Italian Supreme Pizza,Calabrese Salami,150.0,55,8250.0
+ital_supr_l,The Italian Supreme Pizza,Capocollo,150.0,55,8250.0
+ital_supr_l,The Italian Supreme Pizza,Tomatoes,30.0,55,1650.0
+ital_supr_l,The Italian Supreme Pizza,Red Onions,60.0,55,3300.0
+ital_supr_l,The Italian Supreme Pizza,Green Olives,15.0,55,825.0
+ital_supr_l,The Italian Supreme Pizza,Garlic,15.0,55,825.0
+ital_supr_m,The Italian Supreme Pizza,Calabrese Salami,100.0,68,6800.0
+ital_supr_m,The Italian Supreme Pizza,Capocollo,100.0,68,6800.0
+ital_supr_m,The Italian Supreme Pizza,Tomatoes,20.0,68,1360.0
+ital_supr_m,The Italian Supreme Pizza,Red Onions,40.0,68,2720.0
+ital_supr_m,The Italian Supreme Pizza,Green Olives,10.0,68,680.0
+ital_supr_m,The Italian Supreme Pizza,Garlic,10.0,68,680.0
+ital_supr_s,The Italian Supreme Pizza,Calabrese Salami,50.0,14,700.0
+ital_supr_s,The Italian Supreme Pizza,Capocollo,50.0,14,700.0
+ital_supr_s,The Italian Supreme Pizza,Tomatoes,10.0,14,140.0
+ital_supr_s,The Italian Supreme Pizza,Red Onions,20.0,14,280.0
+ital_supr_s,The Italian Supreme Pizza,Green Olives,5.0,14,70.0
+ital_supr_s,The Italian Supreme Pizza,Garlic,5.0,14,70.0
+ital_veggie_l,The Italian Vegetables Pizza,Eggplant,60.0,11,660.0
+ital_veggie_l,The Italian Vegetables Pizza,Artichokes,20.0,11,220.0
+ital_veggie_l,The Italian Vegetables Pizza,Tomatoes,30.0,11,330.0
+ital_veggie_l,The Italian Vegetables Pizza,Zucchini,30.0,11,330.0
+ital_veggie_l,The Italian Vegetables Pizza,Red Peppers,15.0,11,165.0
+ital_veggie_l,The Italian Vegetables Pizza,Garlic,15.0,11,165.0
+ital_veggie_l,The Italian Vegetables Pizza,Pesto Sauce,30.0,11,330.0
+ital_veggie_m,The Italian Vegetables Pizza,Eggplant,40.0,37,1480.0
+ital_veggie_m,The Italian Vegetables Pizza,Artichokes,15.0,37,555.0
+ital_veggie_m,The Italian Vegetables Pizza,Tomatoes,20.0,37,740.0
+ital_veggie_m,The Italian Vegetables Pizza,Zucchini,20.0,37,740.0
+ital_veggie_m,The Italian Vegetables Pizza,Red Peppers,10.0,37,370.0
+ital_veggie_m,The Italian Vegetables Pizza,Garlic,10.0,37,370.0
+ital_veggie_m,The Italian Vegetables Pizza,Pesto Sauce,20.0,37,740.0
+ital_veggie_s,The Italian Vegetables Pizza,Eggplant,20.0,17,340.0
+ital_veggie_s,The Italian Vegetables Pizza,Artichokes,10.0,17,170.0
+ital_veggie_s,The Italian Vegetables Pizza,Tomatoes,10.0,17,170.0
+ital_veggie_s,The Italian Vegetables Pizza,Zucchini,10.0,17,170.0
+ital_veggie_s,The Italian Vegetables Pizza,Red Peppers,5.0,17,85.0
+ital_veggie_s,The Italian Vegetables Pizza,Garlic,5.0,17,85.0
+ital_veggie_s,The Italian Vegetables Pizza,Pesto Sauce,10.0,17,170.0
+mediterraneo_l,The Mediterranean Pizza,Spinach,45.0,34,1530.0
+mediterraneo_l,The Mediterranean Pizza,Artichokes,20.0,34,680.0
+mediterraneo_l,The Mediterranean Pizza,Kalamata Olives,15.0,34,510.0
+mediterraneo_l,The Mediterranean Pizza,Sun-dried Tomatoes,15.0,34,510.0
+mediterraneo_l,The Mediterranean Pizza,Feta Cheese,40.0,34,1360.0
+mediterraneo_l,The Mediterranean Pizza,Plum Tomatoes,60.0,34,2040.0
+mediterraneo_l,The Mediterranean Pizza,Red Onions,60.0,34,2040.0
+mediterraneo_m,The Mediterranean Pizza,Spinach,30.0,24,720.0
+mediterraneo_m,The Mediterranean Pizza,Artichokes,15.0,24,360.0
+mediterraneo_m,The Mediterranean Pizza,Kalamata Olives,10.0,24,240.0
+mediterraneo_m,The Mediterranean Pizza,Sun-dried Tomatoes,10.0,24,240.0
+mediterraneo_m,The Mediterranean Pizza,Feta Cheese,20.0,24,480.0
+mediterraneo_m,The Mediterranean Pizza,Plum Tomatoes,40.0,24,960.0
+mediterraneo_m,The Mediterranean Pizza,Red Onions,40.0,24,960.0
+mediterraneo_s,The Mediterranean Pizza,Spinach,15.0,28,420.0
+mediterraneo_s,The Mediterranean Pizza,Artichokes,10.0,28,280.0
+mediterraneo_s,The Mediterranean Pizza,Kalamata Olives,5.0,28,140.0
+mediterraneo_s,The Mediterranean Pizza,Sun-dried Tomatoes,5.0,28,140.0
+mediterraneo_s,The Mediterranean Pizza,Feta Cheese,10.0,28,280.0
+mediterraneo_s,The Mediterranean Pizza,Plum Tomatoes,20.0,28,560.0
+mediterraneo_s,The Mediterranean Pizza,Red Onions,20.0,28,560.0
+mexicana_l,The Mexicana Pizza,Tomatoes,30.0,64,1920.0
+mexicana_l,The Mexicana Pizza,Red Peppers,15.0,64,960.0
+mexicana_l,The Mexicana Pizza,Jalapeno Peppers,15.0,64,960.0
+mexicana_l,The Mexicana Pizza,Red Onions,60.0,64,3840.0
+mexicana_l,The Mexicana Pizza,Cilantro,15.0,64,960.0
+mexicana_l,The Mexicana Pizza,Corn,100.0,64,6400.0
+mexicana_l,The Mexicana Pizza,Chipotle Sauce,30.0,64,1920.0
+mexicana_l,The Mexicana Pizza,Garlic,15.0,64,960.0
+mexicana_m,The Mexicana Pizza,Tomatoes,20.0,34,680.0
+mexicana_m,The Mexicana Pizza,Red Peppers,10.0,34,340.0
+mexicana_m,The Mexicana Pizza,Jalapeno Peppers,10.0,34,340.0
+mexicana_m,The Mexicana Pizza,Red Onions,40.0,34,1360.0
+mexicana_m,The Mexicana Pizza,Cilantro,10.0,34,340.0
+mexicana_m,The Mexicana Pizza,Corn,70.0,34,2380.0
+mexicana_m,The Mexicana Pizza,Chipotle Sauce,20.0,34,680.0
+mexicana_m,The Mexicana Pizza,Garlic,10.0,34,340.0
+mexicana_s,The Mexicana Pizza,Tomatoes,10.0,14,140.0
+mexicana_s,The Mexicana Pizza,Red Peppers,5.0,14,70.0
+mexicana_s,The Mexicana Pizza,Jalapeno Peppers,5.0,14,70.0
+mexicana_s,The Mexicana Pizza,Red Onions,20.0,14,280.0
+mexicana_s,The Mexicana Pizza,Cilantro,5.0,14,70.0
+mexicana_s,The Mexicana Pizza,Corn,30.0,14,420.0
+mexicana_s,The Mexicana Pizza,Chipotle Sauce,10.0,14,140.0
+mexicana_s,The Mexicana Pizza,Garlic,5.0,14,70.0
+napolitana_l,The Napolitana Pizza,Tomatoes,30.0,42,1260.0
+napolitana_l,The Napolitana Pizza,Anchovies,40.0,42,1680.0
+napolitana_l,The Napolitana Pizza,Green Olives,15.0,42,630.0
+napolitana_l,The Napolitana Pizza,Red Onions,60.0,42,2520.0
+napolitana_l,The Napolitana Pizza,Garlic,15.0,42,630.0
+napolitana_m,The Napolitana Pizza,Tomatoes,20.0,36,720.0
+napolitana_m,The Napolitana Pizza,Anchovies,30.0,36,1080.0
+napolitana_m,The Napolitana Pizza,Green Olives,10.0,36,360.0
+napolitana_m,The Napolitana Pizza,Red Onions,40.0,36,1440.0
+napolitana_m,The Napolitana Pizza,Garlic,10.0,36,360.0
+napolitana_s,The Napolitana Pizza,Tomatoes,10.0,41,410.0
+napolitana_s,The Napolitana Pizza,Anchovies,15.0,41,615.0
+napolitana_s,The Napolitana Pizza,Green Olives,5.0,41,205.0
+napolitana_s,The Napolitana Pizza,Red Onions,20.0,41,820.0
+napolitana_s,The Napolitana Pizza,Garlic,5.0,41,205.0
+pep_msh_pep_l,"The Pepperoni, Mushroom, and Peppers Pizza",Pepperoni,60.0,15,900.0
+pep_msh_pep_l,"The Pepperoni, Mushroom, and Peppers Pizza",Mushrooms,60.0,15,900.0
+pep_msh_pep_l,"The Pepperoni, Mushroom, and Peppers Pizza",Green Peppers,20.0,15,300.0
+pep_msh_pep_m,"The Pepperoni, Mushroom, and Peppers Pizza",Pepperoni,40.0,14,560.0
+pep_msh_pep_m,"The Pepperoni, Mushroom, and Peppers Pizza",Mushrooms,40.0,14,560.0
+pep_msh_pep_m,"The Pepperoni, Mushroom, and Peppers Pizza",Green Peppers,15.0,14,210.0
+pep_msh_pep_s,"The Pepperoni, Mushroom, and Peppers Pizza",Pepperoni,20.0,11,220.0
+pep_msh_pep_s,"The Pepperoni, Mushroom, and Peppers Pizza",Mushrooms,20.0,11,220.0
+pep_msh_pep_s,"The Pepperoni, Mushroom, and Peppers Pizza",Green Peppers,20.0,11,220.0
+pepperoni_l,The Pepperoni Pizza,Mozzarella Cheese,30.0,26,780.0
+pepperoni_l,The Pepperoni Pizza,Pepperoni,60.0,26,1560.0
+pepperoni_m,The Pepperoni Pizza,Mozzarella Cheese,20.0,38,760.0
+pepperoni_m,The Pepperoni Pizza,Pepperoni,40.0,38,1520.0
+pepperoni_s,The Pepperoni Pizza,Mozzarella Cheese,10.0,28,280.0
+pepperoni_s,The Pepperoni Pizza,Pepperoni,20.0,28,560.0
+peppr_salami_l,The Pepper Salami Pizza,Genoa Salami,90.0,65,5850.0
+peppr_salami_l,The Pepper Salami Pizza,Capocollo,150.0,65,9750.0
+peppr_salami_l,The Pepper Salami Pizza,Pepperoni,60.0,65,3900.0
+peppr_salami_l,The Pepper Salami Pizza,Tomatoes,30.0,65,1950.0
+peppr_salami_l,The Pepper Salami Pizza,Asiago Cheese,30.0,65,1950.0
+peppr_salami_l,The Pepper Salami Pizza,Garlic,15.0,65,975.0
+peppr_salami_m,The Pepper Salami Pizza,Genoa Salami,60.0,37,2220.0
+peppr_salami_m,The Pepper Salami Pizza,Capocollo,100.0,37,3700.0
+peppr_salami_m,The Pepper Salami Pizza,Pepperoni,40.0,37,1480.0
+peppr_salami_m,The Pepper Salami Pizza,Tomatoes,20.0,37,740.0
+peppr_salami_m,The Pepper Salami Pizza,Asiago Cheese,20.0,37,740.0
+peppr_salami_m,The Pepper Salami Pizza,Garlic,10.0,37,370.0
+peppr_salami_s,The Pepper Salami Pizza,Genoa Salami,30.0,25,750.0
+peppr_salami_s,The Pepper Salami Pizza,Capocollo,50.0,25,1250.0
+peppr_salami_s,The Pepper Salami Pizza,Pepperoni,20.0,25,500.0
+peppr_salami_s,The Pepper Salami Pizza,Tomatoes,10.0,25,250.0
+peppr_salami_s,The Pepper Salami Pizza,Asiago Cheese,10.0,25,250.0
+peppr_salami_s,The Pepper Salami Pizza,Garlic,5.0,25,125.0
+prsc_argla_l,The Prosciutto and Arugula Pizza,Prosciutto di San Daniele,40.0,24,960.0
+prsc_argla_l,The Prosciutto and Arugula Pizza,Arugula,15.0,24,360.0
+prsc_argla_l,The Prosciutto and Arugula Pizza,Mozzarella Cheese,30.0,24,720.0
+prsc_argla_m,The Prosciutto and Arugula Pizza,Prosciutto di San Daniele,20.0,25,500.0
+prsc_argla_m,The Prosciutto and Arugula Pizza,Arugula,10.0,25,250.0
+prsc_argla_m,The Prosciutto and Arugula Pizza,Mozzarella Cheese,20.0,25,500.0
+prsc_argla_s,The Prosciutto and Arugula Pizza,Prosciutto di San Daniele,10.0,15,150.0
+prsc_argla_s,The Prosciutto and Arugula Pizza,Arugula,5.0,15,75.0
+prsc_argla_s,The Prosciutto and Arugula Pizza,Mozzarella Cheese,10.0,15,150.0
+sicilian_l,The Sicilian Pizza,Coarse Sicilian Salami,120.0,44,5280.0
+sicilian_l,The Sicilian Pizza,Tomatoes,30.0,44,1320.0
+sicilian_l,The Sicilian Pizza,Green Olives,15.0,44,660.0
+sicilian_l,The Sicilian Pizza,Luganega Sausage,60.0,44,2640.0
+sicilian_l,The Sicilian Pizza,Onions,30.0,44,1320.0
+sicilian_l,The Sicilian Pizza,Garlic,15.0,44,660.0
+sicilian_m,The Sicilian Pizza,Coarse Sicilian Salami,80.0,45,3600.0
+sicilian_m,The Sicilian Pizza,Tomatoes,20.0,45,900.0
+sicilian_m,The Sicilian Pizza,Green Olives,10.0,45,450.0
+sicilian_m,The Sicilian Pizza,Luganega Sausage,40.0,45,1800.0
+sicilian_m,The Sicilian Pizza,Onions,20.0,45,900.0
+sicilian_m,The Sicilian Pizza,Garlic,10.0,45,450.0
+sicilian_s,The Sicilian Pizza,Coarse Sicilian Salami,40.0,52,2080.0
+sicilian_s,The Sicilian Pizza,Tomatoes,10.0,52,520.0
+sicilian_s,The Sicilian Pizza,Green Olives,5.0,52,260.0
+sicilian_s,The Sicilian Pizza,Luganega Sausage,20.0,52,1040.0
+sicilian_s,The Sicilian Pizza,Onions,10.0,52,520.0
+sicilian_s,The Sicilian Pizza,Garlic,5.0,52,260.0
+soppressata_l,The Soppressata Pizza,Soppressata Salami,150.0,32,4800.0
+soppressata_l,The Soppressata Pizza,Fontina Cheese,30.0,32,960.0
+soppressata_l,The Soppressata Pizza,Mozzarella Cheese,30.0,32,960.0
+soppressata_l,The Soppressata Pizza,Mushrooms,60.0,32,1920.0
+soppressata_l,The Soppressata Pizza,Garlic,15.0,32,480.0
+soppressata_m,The Soppressata Pizza,Soppressata Salami,100.0,22,2200.0
+soppressata_m,The Soppressata Pizza,Fontina Cheese,20.0,22,440.0
+soppressata_m,The Soppressata Pizza,Mozzarella Cheese,20.0,22,440.0
+soppressata_m,The Soppressata Pizza,Mushrooms,40.0,22,880.0
+soppressata_m,The Soppressata Pizza,Garlic,10.0,22,220.0
+soppressata_s,The Soppressata Pizza,Soppressata Salami,50.0,22,1100.0
+soppressata_s,The Soppressata Pizza,Fontina Cheese,10.0,22,220.0
+soppressata_s,The Soppressata Pizza,Mozzarella Cheese,10.0,22,220.0
+soppressata_s,The Soppressata Pizza,Mushrooms,20.0,22,440.0
+soppressata_s,The Soppressata Pizza,Garlic,5.0,22,110.0
+southw_ckn_l,The Southwest Chicken Pizza,Chicken,150.0,106,15900.0
+southw_ckn_l,The Southwest Chicken Pizza,Tomatoes,30.0,106,3180.0
+southw_ckn_l,The Southwest Chicken Pizza,Red Peppers,15.0,106,1590.0
+southw_ckn_l,The Southwest Chicken Pizza,Red Onions,60.0,106,6360.0
+southw_ckn_l,The Southwest Chicken Pizza,Jalapeno Peppers,15.0,106,1590.0
+southw_ckn_l,The Southwest Chicken Pizza,Corn,100.0,106,10600.0
+southw_ckn_l,The Southwest Chicken Pizza,Cilantro,15.0,106,1590.0
+southw_ckn_l,The Southwest Chicken Pizza,Chipotle Sauce,30.0,106,3180.0
+southw_ckn_m,The Southwest Chicken Pizza,Chicken,100.0,58,5800.0
+southw_ckn_m,The Southwest Chicken Pizza,Tomatoes,20.0,58,1160.0
+southw_ckn_m,The Southwest Chicken Pizza,Red Peppers,10.0,58,580.0
+southw_ckn_m,The Southwest Chicken Pizza,Red Onions,40.0,58,2320.0
+southw_ckn_m,The Southwest Chicken Pizza,Jalapeno Peppers,10.0,58,580.0
+southw_ckn_m,The Southwest Chicken Pizza,Corn,70.0,58,4060.0
+southw_ckn_m,The Southwest Chicken Pizza,Cilantro,10.0,58,580.0
+southw_ckn_m,The Southwest Chicken Pizza,Chipotle Sauce,20.0,58,1160.0
+southw_ckn_s,The Southwest Chicken Pizza,Chicken,50.0,40,2000.0
+southw_ckn_s,The Southwest Chicken Pizza,Tomatoes,10.0,40,400.0
+southw_ckn_s,The Southwest Chicken Pizza,Red Peppers,5.0,40,200.0
+southw_ckn_s,The Southwest Chicken Pizza,Red Onions,20.0,40,800.0
+southw_ckn_s,The Southwest Chicken Pizza,Jalapeno Peppers,5.0,40,200.0
+southw_ckn_s,The Southwest Chicken Pizza,Corn,30.0,40,1200.0
+southw_ckn_s,The Southwest Chicken Pizza,Cilantro,5.0,40,200.0
+southw_ckn_s,The Southwest Chicken Pizza,Chipotle Sauce,10.0,40,400.0
+spicy_ital_l,The Spicy Italian Pizza,Capocollo,150.0,120,18000.0
+spicy_ital_l,The Spicy Italian Pizza,Tomatoes,30.0,120,3600.0
+spicy_ital_l,The Spicy Italian Pizza,Goat Cheese,60.0,120,7200.0
+spicy_ital_l,The Spicy Italian Pizza,Artichokes,20.0,120,2400.0
+spicy_ital_l,The Spicy Italian Pizza,Peperoncini verdi,15.0,120,1800.0
+spicy_ital_l,The Spicy Italian Pizza,Garlic,15.0,120,1800.0
+spicy_ital_m,The Spicy Italian Pizza,Capocollo,100.0,40,4000.0
+spicy_ital_m,The Spicy Italian Pizza,Tomatoes,20.0,40,800.0
+spicy_ital_m,The Spicy Italian Pizza,Goat Cheese,40.0,40,1600.0
+spicy_ital_m,The Spicy Italian Pizza,Artichokes,15.0,40,600.0
+spicy_ital_m,The Spicy Italian Pizza,Peperoncini verdi,10.0,40,400.0
+spicy_ital_m,The Spicy Italian Pizza,Garlic,10.0,40,400.0
+spicy_ital_s,The Spicy Italian Pizza,Capocollo,50.0,28,1400.0
+spicy_ital_s,The Spicy Italian Pizza,Tomatoes,10.0,28,280.0
+spicy_ital_s,The Spicy Italian Pizza,Goat Cheese,20.0,28,560.0
+spicy_ital_s,The Spicy Italian Pizza,Artichokes,10.0,28,280.0
+spicy_ital_s,The Spicy Italian Pizza,Peperoncini verdi,5.0,28,140.0
+spicy_ital_s,The Spicy Italian Pizza,Garlic,5.0,28,140.0
+spin_pesto_l,The Spinach Pesto Pizza,Spinach,45.0,23,1035.0
+spin_pesto_l,The Spinach Pesto Pizza,Artichokes,20.0,23,460.0
+spin_pesto_l,The Spinach Pesto Pizza,Tomatoes,30.0,23,690.0
+spin_pesto_l,The Spinach Pesto Pizza,Sun-dried Tomatoes,15.0,23,345.0
+spin_pesto_l,The Spinach Pesto Pizza,Garlic,15.0,23,345.0
+spin_pesto_l,The Spinach Pesto Pizza,Pesto Sauce,30.0,23,690.0
+spin_pesto_m,The Spinach Pesto Pizza,Spinach,30.0,21,630.0
+spin_pesto_m,The Spinach Pesto Pizza,Artichokes,15.0,21,315.0
+spin_pesto_m,The Spinach Pesto Pizza,Tomatoes,20.0,21,420.0
+spin_pesto_m,The Spinach Pesto Pizza,Sun-dried Tomatoes,10.0,21,210.0
+spin_pesto_m,The Spinach Pesto Pizza,Garlic,10.0,21,210.0
+spin_pesto_m,The Spinach Pesto Pizza,Pesto Sauce,20.0,21,420.0
+spin_pesto_s,The Spinach Pesto Pizza,Spinach,15.0,19,285.0
+spin_pesto_s,The Spinach Pesto Pizza,Artichokes,10.0,19,190.0
+spin_pesto_s,The Spinach Pesto Pizza,Tomatoes,10.0,19,190.0
+spin_pesto_s,The Spinach Pesto Pizza,Sun-dried Tomatoes,5.0,19,95.0
+spin_pesto_s,The Spinach Pesto Pizza,Garlic,5.0,19,95.0
+spin_pesto_s,The Spinach Pesto Pizza,Pesto Sauce,10.0,19,190.0
+spinach_fet_l,The Spinach and Feta Pizza,Spinach,45.0,34,1530.0
+spinach_fet_l,The Spinach and Feta Pizza,Mushrooms,60.0,34,2040.0
+spinach_fet_l,The Spinach and Feta Pizza,Red Onions,60.0,34,2040.0
+spinach_fet_l,The Spinach and Feta Pizza,Feta Cheese,40.0,34,1360.0
+spinach_fet_l,The Spinach and Feta Pizza,Garlic,15.0,34,510.0
+spinach_fet_m,The Spinach and Feta Pizza,Spinach,30.0,46,1380.0
+spinach_fet_m,The Spinach and Feta Pizza,Mushrooms,40.0,46,1840.0
+spinach_fet_m,The Spinach and Feta Pizza,Red Onions,40.0,46,1840.0
+spinach_fet_m,The Spinach and Feta Pizza,Feta Cheese,20.0,46,920.0
+spinach_fet_m,The Spinach and Feta Pizza,Garlic,10.0,46,460.0
+spinach_fet_s,The Spinach and Feta Pizza,Spinach,15.0,29,435.0
+spinach_fet_s,The Spinach and Feta Pizza,Mushrooms,20.0,29,580.0
+spinach_fet_s,The Spinach and Feta Pizza,Red Onions,20.0,29,580.0
+spinach_fet_s,The Spinach and Feta Pizza,Feta Cheese,10.0,29,290.0
+spinach_fet_s,The Spinach and Feta Pizza,Garlic,5.0,29,145.0
+spinach_supr_l,The Spinach Supreme Pizza,Spinach,45.0,31,1395.0
+spinach_supr_l,The Spinach Supreme Pizza,Red Onions,60.0,31,1860.0
+spinach_supr_l,The Spinach Supreme Pizza,Pepperoni,60.0,31,1860.0
+spinach_supr_l,The Spinach Supreme Pizza,Tomatoes,30.0,31,930.0
+spinach_supr_l,The Spinach Supreme Pizza,Artichokes,20.0,31,620.0
+spinach_supr_l,The Spinach Supreme Pizza,Kalamata Olives,15.0,31,465.0
+spinach_supr_l,The Spinach Supreme Pizza,Garlic,15.0,31,465.0
+spinach_supr_l,The Spinach Supreme Pizza,Asiago Cheese,30.0,31,930.0
+spinach_supr_m,The Spinach Supreme Pizza,Spinach,30.0,26,780.0
+spinach_supr_m,The Spinach Supreme Pizza,Red Onions,40.0,26,1040.0
+spinach_supr_m,The Spinach Supreme Pizza,Pepperoni,40.0,26,1040.0
+spinach_supr_m,The Spinach Supreme Pizza,Tomatoes,20.0,26,520.0
+spinach_supr_m,The Spinach Supreme Pizza,Artichokes,15.0,26,390.0
+spinach_supr_m,The Spinach Supreme Pizza,Kalamata Olives,10.0,26,260.0
+spinach_supr_m,The Spinach Supreme Pizza,Garlic,10.0,26,260.0
+spinach_supr_m,The Spinach Supreme Pizza,Asiago Cheese,20.0,26,520.0
+spinach_supr_s,The Spinach Supreme Pizza,Spinach,15.0,30,450.0
+spinach_supr_s,The Spinach Supreme Pizza,Red Onions,20.0,30,600.0
+spinach_supr_s,The Spinach Supreme Pizza,Pepperoni,20.0,30,600.0
+spinach_supr_s,The Spinach Supreme Pizza,Tomatoes,10.0,30,300.0
+spinach_supr_s,The Spinach Supreme Pizza,Artichokes,10.0,30,300.0
+spinach_supr_s,The Spinach Supreme Pizza,Kalamata Olives,5.0,30,150.0
+spinach_supr_s,The Spinach Supreme Pizza,Garlic,5.0,30,150.0
+spinach_supr_s,The Spinach Supreme Pizza,Asiago Cheese,10.0,30,300.0
+thai_ckn_l,The Thai Chicken Pizza,Chicken,150.0,111,16650.0
+thai_ckn_l,The Thai Chicken Pizza,Pineapple,45.0,111,4995.0
+thai_ckn_l,The Thai Chicken Pizza,Tomatoes,30.0,111,3330.0
+thai_ckn_l,The Thai Chicken Pizza,Red Peppers,15.0,111,1665.0
+thai_ckn_l,The Thai Chicken Pizza,Thai Sweet Chilli Sauce,30.0,111,3330.0
+thai_ckn_m,The Thai Chicken Pizza,Chicken,100.0,36,3600.0
+thai_ckn_m,The Thai Chicken Pizza,Pineapple,30.0,36,1080.0
+thai_ckn_m,The Thai Chicken Pizza,Tomatoes,20.0,36,720.0
+thai_ckn_m,The Thai Chicken Pizza,Red Peppers,10.0,36,360.0
+thai_ckn_m,The Thai Chicken Pizza,Thai Sweet Chilli Sauce,20.0,36,720.0
+thai_ckn_s,The Thai Chicken Pizza,Chicken,50.0,35,1750.0
+thai_ckn_s,The Thai Chicken Pizza,Pineapple,15.0,35,525.0
+thai_ckn_s,The Thai Chicken Pizza,Tomatoes,10.0,35,350.0
+thai_ckn_s,The Thai Chicken Pizza,Red Peppers,5.0,35,175.0
+thai_ckn_s,The Thai Chicken Pizza,Thai Sweet Chilli Sauce,10.0,35,350.0
+the_greek_l,The Greek Pizza,Kalamata Olives,15.0,31,465.0
+the_greek_l,The Greek Pizza,Feta Cheese,40.0,31,1240.0
+the_greek_l,The Greek Pizza,Tomatoes,30.0,31,930.0
+the_greek_l,The Greek Pizza,Garlic,15.0,31,465.0
+the_greek_l,The Greek Pizza,Beef Chuck Roast,100.0,31,3100.0
+the_greek_l,The Greek Pizza,Red Onions,60.0,31,1860.0
+the_greek_m,The Greek Pizza,Kalamata Olives,10.0,18,180.0
+the_greek_m,The Greek Pizza,Feta Cheese,20.0,18,360.0
+the_greek_m,The Greek Pizza,Tomatoes,20.0,18,360.0
+the_greek_m,The Greek Pizza,Garlic,10.0,18,180.0
+the_greek_m,The Greek Pizza,Beef Chuck Roast,70.0,18,1260.0
+the_greek_m,The Greek Pizza,Red Onions,40.0,18,720.0
+the_greek_s,The Greek Pizza,Kalamata Olives,5.0,25,125.0
+the_greek_s,The Greek Pizza,Feta Cheese,10.0,25,250.0
+the_greek_s,The Greek Pizza,Tomatoes,10.0,25,250.0
+the_greek_s,The Greek Pizza,Garlic,5.0,25,125.0
+the_greek_s,The Greek Pizza,Beef Chuck Roast,50.0,25,1250.0
+the_greek_s,The Greek Pizza,Red Onions,20.0,25,500.0
+the_greek_xl,The Greek Pizza,Kalamata Olives,20.0,53,1060.0
+the_greek_xl,The Greek Pizza,Feta Cheese,60.0,53,3180.0
+the_greek_xl,The Greek Pizza,Tomatoes,40.0,53,2120.0
+the_greek_xl,The Greek Pizza,Garlic,20.0,53,1060.0
+the_greek_xl,The Greek Pizza,Beef Chuck Roast,150.0,53,7950.0
+the_greek_xl,The Greek Pizza,Red Onions,80.0,53,4240.0
+the_greek_xxl,The Greek Pizza,Kalamata Olives,25.0,7,175.0
+the_greek_xxl,The Greek Pizza,Feta Cheese,80.0,7,560.0
+the_greek_xxl,The Greek Pizza,Tomatoes,50.0,7,350.0
+the_greek_xxl,The Greek Pizza,Garlic,25.0,7,175.0
+the_greek_xxl,The Greek Pizza,Beef Chuck Roast,200.0,7,1400.0
+the_greek_xxl,The Greek Pizza,Red Onions,100.0,7,700.0
+veggie_veg_l,The Vegetables + Vegetables Pizza,Mushrooms,60.0,37,2220.0
+veggie_veg_l,The Vegetables + Vegetables Pizza,Tomatoes,30.0,37,1110.0
+veggie_veg_l,The Vegetables + Vegetables Pizza,Red Peppers,15.0,37,555.0
+veggie_veg_l,The Vegetables + Vegetables Pizza,Green Peppers,20.0,37,740.0
+veggie_veg_l,The Vegetables + Vegetables Pizza,Red Onions,60.0,37,2220.0
+veggie_veg_l,The Vegetables + Vegetables Pizza,Zucchini,30.0,37,1110.0
+veggie_veg_l,The Vegetables + Vegetables Pizza,Spinach,45.0,37,1665.0
+veggie_veg_l,The Vegetables + Vegetables Pizza,Garlic,15.0,37,555.0
+veggie_veg_m,The Vegetables + Vegetables Pizza,Mushrooms,40.0,54,2160.0
+veggie_veg_m,The Vegetables + Vegetables Pizza,Tomatoes,20.0,54,1080.0
+veggie_veg_m,The Vegetables + Vegetables Pizza,Red Peppers,10.0,54,540.0
+veggie_veg_m,The Vegetables + Vegetables Pizza,Green Peppers,15.0,54,810.0
+veggie_veg_m,The Vegetables + Vegetables Pizza,Red Onions,40.0,54,2160.0
+veggie_veg_m,The Vegetables + Vegetables Pizza,Zucchini,20.0,54,1080.0
+veggie_veg_m,The Vegetables + Vegetables Pizza,Spinach,30.0,54,1620.0
+veggie_veg_m,The Vegetables + Vegetables Pizza,Garlic,10.0,54,540.0
+veggie_veg_s,The Vegetables + Vegetables Pizza,Mushrooms,20.0,33,660.0
+veggie_veg_s,The Vegetables + Vegetables Pizza,Tomatoes,10.0,33,330.0
+veggie_veg_s,The Vegetables + Vegetables Pizza,Red Peppers,5.0,33,165.0
+veggie_veg_s,The Vegetables + Vegetables Pizza,Green Peppers,20.0,33,660.0
+veggie_veg_s,The Vegetables + Vegetables Pizza,Red Onions,20.0,33,660.0
+veggie_veg_s,The Vegetables + Vegetables Pizza,Zucchini,10.0,33,330.0
+veggie_veg_s,The Vegetables + Vegetables Pizza,Spinach,15.0,33,495.0
+veggie_veg_s,The Vegetables + Vegetables Pizza,Garlic,5.0,33,165.0
